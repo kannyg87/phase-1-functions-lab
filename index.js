@@ -36,6 +36,4 @@ function distanceFromHqInBlocks(val) {
         return 'cannot travel that far';
       }
   }
-  
-  
-  
+  // test pushing
